@@ -49,7 +49,7 @@ git clone https://github.com/your-username/currency-converter.git
 
 3. Run the application
 
-* Open `index.html` in your browser
+* Open `main.html` in your browser
 
 ---
 
